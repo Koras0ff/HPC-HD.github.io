@@ -7,6 +7,7 @@ This page is for internal use and shows the elements you can use when editing th
 
 # Where is what:
 
+  - [Page source repository](https://github.com/HPC-HD/HPC-HD.github.io)
   - [Navigation menu on the left](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_includes/sidebar.html)
   - [Main text on the home page (the banner)](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_includes/banner.html)
   - [Title/subtitle/social network links](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_config.yml)
