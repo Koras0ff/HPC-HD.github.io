@@ -5,7 +5,7 @@ title: Elements
 
 This page is for internal use and shows the elements you can use when editing the website. Best look at the [markdown source here](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/elements.md)
 
-# Where is what:
+## Where is what:
 
   - [Page source repository](https://github.com/HPC-HD/HPC-HD.github.io)
   - [Navigation menu on the left](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_includes/sidebar.html)
@@ -13,7 +13,7 @@ This page is for internal use and shows the elements you can use when editing th
   - [Title/subtitle/social network links](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_config.yml)
   - [Images and other static data](https://github.com/HPC-HD/HPC-HD.github.io/tree/master/assets/images)
   
-# How to make a new page?
+## How to make a new page?
 
 * Make a new markdown (.md) file, with the appropriate header (like on this page)
 * Link it from somewhere so it can be navigated to
