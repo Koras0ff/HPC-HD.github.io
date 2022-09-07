@@ -1,6 +1,6 @@
 # Site settings
 title: HPC-HD
-subtitle: High Performance Computing for Digital History
+subtitle: High Performance Computing for the Detection and Analysis of Historical Discourses
 email: figint@utu.fi
 description: High Performance Computing for Digital History
 baseurl: "" # the subpath of your site, e.g. /blog
