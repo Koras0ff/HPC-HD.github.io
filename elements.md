@@ -3,6 +3,23 @@ layout: page
 title: Elements
 ---
 
+This page is for internal use and shows the elements you can use when editing the website. Best look at the [markdown source here](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/elements.md)
+
+# Where is what:
+
+  - [Navigation menu on the left](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_includes/sidebar.html)
+  - [Main text on the home page (the banner)](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_includes/banner.html)
+  - [Title/subtitle/social network links](https://github.com/HPC-HD/HPC-HD.github.io/blob/master/_config.yml)
+  - [Images and other static data](https://github.com/HPC-HD/HPC-HD.github.io/tree/master/assets/images)
+  
+# How to make a new page?
+
+* Make a new markdown (.md) file, with the appropriate header (like on this page)
+* Link it from somewhere so it can be navigated to
+* Commit and push; in a minute or so it will update on the page: you can follow the process (and any possible errors) [here](https://github.com/HPC-HD/HPC-HD.github.io/actions)
+* For the most part, you will do fine with Markdown and no extra html, markdown is documented here: [quick reference](https://kramdown.gettalong.org/quickref.html) [full docs](https://kramdown.gettalong.org/syntax.html)
+
+
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.</p>
 <div class="row">
