@@ -3,15 +3,11 @@ layout: page
 title: Live demos maintained by HPC-HD
 ---
 
-## Weaviate cross-lingual search
+## Cross-lingual search
 
-(TODO description)
+Description coming soon
 
-(TODO link)
 
 ## Text reuse analysis
 
-(TODO description)
-
-(TODO link)
-
+Description coming soon

@@ -1,31 +1,39 @@
 <!-- Sidebar -->
-  <div id="sidebar">
-    <div class="inner">
-
-      <!-- Menu -->
-        <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
+<div id="sidebar">
+  <div class="inner">
+    <!-- Menu -->
+    <nav id="menu">
+      <header class="major">
+        <h2>Menu</h2>
+      </header>
+      <ul>
+        <li><a href="{{ '/' | absolute_url }}">Homepage</a></li>
+        <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
+        <li>
+          <span class="opener">Demos</span>
           <ul>
-            <li><a href="{{ '/' | absolute_url }}">Homepage</a></li>
-	    <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
             <li>
-              <span class="opener">Demos</span>
-              <ul>
-                <li><a href="{{ 'demos.html' | absolute_url }}">About our demos</a></li>
-                <li><a href="https://app-kaiku.rahtiapp.fi/semantic">Cross-ling search</a></li>
-		<li><a href="https://url-missing">Text reuse</a></li>
-              </ul>
+              <a href="{{ 'demos.html' | absolute_url }}">About our demos</a>
             </li>
-	    <li><a href="{{ 'elements.html' | absolute_url }}">Edit these pages</a></li>
+            <li>
+              <a href="https://app-kaiku.rahtiapp.fi/semantic"
+                >Cross-ling search</a
+              >
+            </li>
+            <li><a href="https://app-kaiku.rahtiapp.fi/">Text reuse</a></li>
           </ul>
-        </nav>
+        </li>
+      </ul>
+    </nav>
 
-      <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
-        </footer>
-
-    </div>
+    <!-- Footer -->
+    <footer id="footer">
+      <p class="copyright">
+        &copy; {{ site.title }}. All rights reserved. Demo Images:
+        <a href="https://unsplash.com">Unsplash</a>. Design:
+        <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration:
+        <a href="https://andrewbanchi.ch">Andrew Banchich</a>.
+      </p>
+    </footer>
   </div>
+</div>
