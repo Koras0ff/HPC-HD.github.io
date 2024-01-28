@@ -8,7 +8,7 @@ title: people in HPC-HD
 
 ## Helsinki University
 
-![Mikko Tolonen](/assets/images/tolonen.jpg){: .uniform-size}   
+![Mikko Tolonen](/assets/images/tolonen.jpg)  
 **[Mikko Tolonen](https://researchportal.helsinki.fi/en/persons/mikko-tolonen)**  
 
 ![Kira Hinderks](/assets/images/placeholder.jpeg){: .uniform-size}   
