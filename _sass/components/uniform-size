@@ -1,0 +1,6 @@
+.uniform-size {
+  width: 60px; // Fixed width for uniform size
+  height: 60px; // Fixed height for uniform size
+  border-radius: 50%; // Makes images round
+  object-fit: cover; // Ensures images cover their frame
+}
