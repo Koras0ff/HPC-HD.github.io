@@ -11,7 +11,7 @@ title: people in HPC-HD
 ![Mikko Tolonen](/assets/images/tolonen.jpg)  
 **[Mikko Tolonen](https://researchportal.helsinki.fi/en/persons/mikko-tolonen)**  
 
-![Kira Hinderks](/assets/images/placeholder.jpeg){: .uniform-size}   
+![Kira Hinderks](/assets/images/placeholder.jpeg) 
 **[Kira Hinderks](https://researchportal.helsinki.fi/en/persons/kira-sophie-hinderks)**  
 
 ![Lidia Pivovarova](/assets/images/lidia.png){: .uniform-size}   
