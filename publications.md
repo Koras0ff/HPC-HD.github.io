@@ -3,8 +3,6 @@ layout: page
 title: Publications
 ---
 
-# Publications
-
 
 - [**Optimizing a Data Science System for Text Reuse Analysis**](https://researchportal.helsinki.fi/en/publications/optimizing-a-data-science-system-for-text-reuse-analysis)  
 
